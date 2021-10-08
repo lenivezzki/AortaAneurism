@@ -1,7 +1,0 @@
-1. LKA_filtering.py - фильтр по "лка"
-2. delete_povtor_docs.py - удаление повторяющихся записей
-3. lemmatization.py - приведение слов в начальную форму
-4. remove_stopwords.py - удаление стоп-слов
-5. remove_rare_words.py - удаление редких слов (<= 2)
-
-"tomsk_almazov LKA_Y LEMME.txt" - уже финальный документ: id, целевые значения (бинарные), строка
